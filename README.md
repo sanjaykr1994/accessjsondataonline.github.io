@@ -1,1 +1,1 @@
-# accessjsondataonline.github.io
+# practical-react
